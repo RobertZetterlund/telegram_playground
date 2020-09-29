@@ -1,3 +1,4 @@
+# BLOG POST: https://blog.seamlesscloud.io/2020/09/be-prepared-for-bad-weather-using-20-lines-of-python/
 from decouple import config
 import requests
 
